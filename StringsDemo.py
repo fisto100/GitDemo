@@ -20,10 +20,29 @@ print(str4.lstrip())
 print(str4.rstrip())
 
 
+print(str[1])   #a
+
+print(str[0:5])  # if you want substring in python
+
+print(str+str1)   # concatenation
+
+print(str3 in str)  # substring check
 
 
 
 
+print(str[1])   #a
 
+print(str[0:5])  # if you want substring in python
 
+print(str+str1)   # concatenation
 
+print(str3 in str)  # substring check
+
+print(str[1])   #a
+
+print(str[0:5])  # if you want substring in python
+
+print(str+str1)   # concatenation
+
+print(str3 in str)  # substring check
