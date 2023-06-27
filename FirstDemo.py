@@ -4,14 +4,14 @@ print("hello")
 a = 3
 print(a)
 
-Str = "Hello World"
+Str = "Git is Interesting"
 print(Str)
 
-b, c, d = 5, 6.4, "Great"
+b, c, d = 10, 6.4, "Great Repository"
 
 #print("Value is"+b+"fdfd")
 
-print("{} {}".format("Value is", b))
+print("{} {}".format(d, b))
 
 print(type(b))
 
