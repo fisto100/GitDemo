@@ -1,6 +1,6 @@
-str = "RahulShettyAcademy.com"
-str1 = "Consulting firm"
-str3 = "RahulShetty"
+str = "FistoAcademy.com"
+str1 = "Programming firm"
+str3 = "FistoSistao"
 
 print(str[1])   #a
 
